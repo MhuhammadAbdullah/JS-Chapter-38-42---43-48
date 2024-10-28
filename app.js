@@ -1,3 +1,5 @@
+// Assignment Chapter # 38-42
+
 // QUESTION 01
 
 // var result = 1;
@@ -170,3 +172,13 @@
 // const amountToWithdraw = 580;
 // const notes = calculateCurrencyNotes(amountToWithdraw);
 // console.log(`100s: ${notes.hundred}, 50s: ${notes.fifty}, 10s: ${notes.ten}`);
+
+
+
+
+// =========================================================================================
+
+
+// Assignment Chapter # 43-48
+
+// QUESTION 01
