@@ -181,4 +181,32 @@
 
 // Assignment Chapter # 43-48
 
-// QUESTION 01
+// QUESTION 02
+
+// function showAlert(phoneName) {
+//     alert(`You clicked on ${phoneName}`);
+// }
+
+
+// QUESTINO 03 FROM 43-48
+
+
+// function deleteRow(button) {
+//     var row = button.parentNode.parentNode;
+//     row.parentNode.removeChild(row);
+// }
+
+
+// QUESTINO 05 FROM 43-48
+
+// var counter = 0;
+
+//     function increaseCounter() {
+//         counter++;
+//         document.getElementById("counterValue").textContent = counter;
+//     }
+
+//     function decreaseCounter() {
+//         counter--;
+//         document.getElementById("counterValue").textContent = counter;
+//     }
